@@ -1,0 +1,13 @@
+.post-container {
+	padding: 15px;
+	padding-top: 25px;
+}
+
+.post{
+	background-color: rgb(237, 215, 215)
+}
+.image {
+	width: 100%;
+	height: 250px;
+}
+

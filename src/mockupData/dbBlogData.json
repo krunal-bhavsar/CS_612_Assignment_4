@@ -1,0 +1,27 @@
+[
+	{
+	"id":"1",
+	"title": "Space Mystery !",
+	"body": "There are about two trillion galaxies in our Universe and, as far as we know, almost every one contains a central supermassive black hole. They range in size from monsters, weighing almost 50 billion times the mass of the Sun, to the 4.3-million-solar-mass tiddler known as Sagittarius A* in the core of our Milky Way (one solar mass = mass of our Sun). But how they got there is one of the great unsolved mysteries of cosmology. We know that a stellar black hole forms in a supernova explosion in which the core of a star implodes. But nobody knows how a supermassive black hole forms. It is also possible that supermassive black holes formed in the Big Bang. This would provide a novel answer to the cosmic chicken-and-egg question: which came first – galaxies or supermassive black holes? Rather than galaxies forming first and then spawning such monsters, supermassive black holes would form first and provide the seeds about which galaxies of stars formed. ",
+	"date": "12/02/2022",
+	"imgUrl":"Space.jpg",
+    "summary":"There are about two trillion galaxies in our Universe and ..."
+	},
+	{
+	"id":"2",
+	"title": "Why anime ?",
+	"body": "When it comes to watching movies and TV shows, there are a variety of genres to choose from. Some people watch action movies, some watch romance and some just want to watch a comedy. Then, there is the group of people who like the foreign genre – specifically Japanese anime. Anime is unique for its art style and the above and beyond storylines. Even though it’s animated, these shows typically carry heavy themes, ranging from lighthearted to more mature, making them relatable to all audiences.",
+	"date": "12/02/2022",
+	"imgUrl":"anime.jpg",
+    "summary":"When it comes to watching movies and TV shows ..."
+	},
+	{
+	"id":"3",
+	"title": "Bhagavad Gita",
+	"body": "Why am I here on earth? Where did I come from? What am I worth? Do I have any intrinsic value? Do I serve a purpose? These are all fundamental questions. They are life's big questions. How you answer these questions determines how you see the world and how you treat the world. Because you are a part of the world, how you see the world also determines how you see and treat yourself. So, it's important that we resolve these fundamental questions. And it's important that we discover the honest truth. Wrong answers to important questions aren't helpful. However you can find all of these answers in The Bhagavad-Gita which is one of the most ancient religious scriptures of the world. It contains the direct message of God. It is a dialogue between God and his closest devotee. The antiquity of the Bhagavad-Gita is hidden in tradition, ancient scriptures, myths and legends. Its history, content and personality are intimately connected to the life of Lord Krishna, an incarnation of Lord Vishnu and the Yadava hero, who played a crucial role in the war of the epic Mahabharata",
+	"date": "12/02/2022",
+	"imgUrl":"gita.jpg",
+    "summary":"Why am I here on earth? Where did I come from? What am I worth? ..."
+	}
+	
+]
